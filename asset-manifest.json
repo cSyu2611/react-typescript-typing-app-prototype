@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-typescript-typing-app-prototype/static/css/main.6a373086.chunk.css",
+    "main.js": "/react-typescript-typing-app-prototype/static/js/main.9b6f710c.chunk.js",
+    "main.js.map": "/react-typescript-typing-app-prototype/static/js/main.9b6f710c.chunk.js.map",
+    "runtime-main.js": "/react-typescript-typing-app-prototype/static/js/runtime-main.788fb1aa.js",
+    "runtime-main.js.map": "/react-typescript-typing-app-prototype/static/js/runtime-main.788fb1aa.js.map",
+    "static/js/2.8d196956.chunk.js": "/react-typescript-typing-app-prototype/static/js/2.8d196956.chunk.js",
+    "static/js/2.8d196956.chunk.js.map": "/react-typescript-typing-app-prototype/static/js/2.8d196956.chunk.js.map",
+    "index.html": "/react-typescript-typing-app-prototype/index.html",
+    "precache-manifest.3b1ce8c31f1b29ec91f427962c824149.js": "/react-typescript-typing-app-prototype/precache-manifest.3b1ce8c31f1b29ec91f427962c824149.js",
+    "service-worker.js": "/react-typescript-typing-app-prototype/service-worker.js",
+    "static/css/main.6a373086.chunk.css.map": "/react-typescript-typing-app-prototype/static/css/main.6a373086.chunk.css.map",
+    "static/js/2.8d196956.chunk.js.LICENSE.txt": "/react-typescript-typing-app-prototype/static/js/2.8d196956.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.788fb1aa.js",
+    "static/js/2.8d196956.chunk.js",
+    "static/css/main.6a373086.chunk.css",
+    "static/js/main.9b6f710c.chunk.js"
+  ]
+}
