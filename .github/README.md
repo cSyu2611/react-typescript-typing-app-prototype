@@ -6,6 +6,8 @@
 
 ## Sample
 
+https://csyu2611.github.io/react-typescript-typing-app-prototype/
+
 ## Set up
 
 ```
